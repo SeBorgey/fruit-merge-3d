@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c2873332b1a3f49bee897fb3bea1a2, type: 3}
+  m_Name: FruitsPool
+  m_EditorClassIdentifier: 
+  _fruits:
+  - {fileID: 980299107998943378, guid: 9907a9468a4e1c94d910227c0f04094d, type: 3}
+  - {fileID: 5647507656180184962, guid: 503c8cecf72e64a4eb26f24bd3798de5, type: 3}
+  - {fileID: 5652009530682593727, guid: 70f370264b0125d49ac69eec64369864, type: 3}
+  - {fileID: 327422584400243803, guid: 48f076378d5c2c3409f5eb90aba79d71, type: 3}
+  - {fileID: 3093329754245712757, guid: ebf81c9e421be554881210a3df773fdd, type: 3}
+  - {fileID: 1825907000567785950, guid: 1ba30e40159455b4894621b43271685b, type: 3}
+  - {fileID: 1106915545397996593, guid: 26e7b49c36a517a4cb9b7760c1006d31, type: 3}
+  - {fileID: 2412932995058857705, guid: 418d63a34e310cc41913637c1046ea60, type: 3}
+  - {fileID: 1828071861149675346, guid: b889d0b058f9b5249918d3e7266eeee3, type: 3}
